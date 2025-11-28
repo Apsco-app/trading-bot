@@ -6,5 +6,7 @@ was indentation most of the time and in the terminal downgrading my python versi
 version to support librarires like ta
  4. Then in order to run the python file since we are using streamlit we type: streamlit run ultimate_forex_trading_platform.py
  5. Finally ensure you have Meta Trader 5 insalled in your computer and click on connect to Mt5 in the python website.
+ 6. Then update01 came adding fundamental strategy to using n8n, begin by installing fastapi
+ 7. 8. And in n8n post method give thsi as the URL:http://YOUR_COMPUTER_IP:5000/news
 
 *****************************************THANKYOU FOR READING************************************************************************
